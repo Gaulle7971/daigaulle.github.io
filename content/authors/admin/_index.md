@@ -38,10 +38,10 @@ education:
   courses:
     - course: M.Eng in Aerospace Science and Technology
       institution: Harbin Institute of Technology, Shenzhen  
-      (2022.09~2025.01)
+      year: 2025
     - course: B.Eng in Automation
       institution: Harbin Engineering University  
-      (2018.09~2022.09)
+      year: 2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
