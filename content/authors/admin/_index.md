@@ -37,9 +37,9 @@ interests:
 education:
   courses:
     - course: M.Eng in Aerospace Science and Technology
-      institution: **Harbin Institute of Technology, Shenzhen** (2022~2025)
+      institution: Harbin Institute of Technology, Shenzhen (2022~2025)
     - course: B.Eng in Automation
-      institution: **Harbin Engineering University** (2018~2022)
+      institution: Harbin Engineering University (2018~2022)
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
