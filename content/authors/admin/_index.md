@@ -37,9 +37,11 @@ interests:
 education:
   courses:
     - course: M.Eng in Aerospace Science and Technology
-      institution: Harbin Institute of Technology, Shenzhen <br>(2022.09-2025.01)
+      institution: Harbin Institute of Technology, Shenzhen
+      (2022.09-2025.01)
     - course: B.Eng in Automation
-      institution: Harbin Engineering University <br>(2018.09-2022.09)
+      institution: Harbin Engineering University
+      (2018.09-2022.09)
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -105,5 +107,5 @@ social:
 highlight_name: true
 ---
 
-Hi, I'm Zijian Dai! Currently, I am studying for a master's degree in robotics at **Harbin Institute of Technology,Shenzhen**. Before this I completed my B.Eng in automation at **Harbin Engineering University** with **Prof. Zheping Yan** and **Prof. Yongyao Chen**. During my academic career, I have worked on various types of robotics projects, including **quadruped robots, space robots, robotic arms, underwater robots, wheel robots**, etc. I am good at embedded development, ROS, and robot joint motion control such as servos/servo motors. My research interests include **robot compliant control, whole-body motion control, and real-world robotic system building**. Currently, I am working as an intern in motion control algorithms at **Tencent Robotics X Lab** and I am also looking for robotics **PHD opportunities** after my Master study.
+Hi, I'm Zijian Dai! Currently, I am studying for a master's degree in robotics at **Harbin Institute of Technology,Shenzhen**. Before this I completed my B.Eng in automation at **Harbin Engineering University** with **Prof. Zheping Yan** and **Prof. Yongyao Chen**. During my academic career, I have worked on various types of robotics projects, including **quadruped robots**, **space robots**, **robotic arms**, **underwater robots**, **wheel robots**, etc. I am good at embedded development, ROS, and robot joint motion control such as servos/servo motors. My research interests include robot **compliant control**, **whole-body motion control**, and **real-world robotic system building**. Currently, I am working as an intern in motion control algorithms at **Tencent Robotics X Lab** and I am also looking for robotics **PHD opportunities** after my Master study.
 {style="text-align: justify;"}
