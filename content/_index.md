@@ -90,7 +90,7 @@ sections:
           date_end:'2022-06-28'
           description:Embedded system design and servo control.
     design:
-      columns: '3'
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
