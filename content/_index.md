@@ -77,7 +77,7 @@ sections:
         - title: Master of Aerospace science and technology
           company: Harbin Institute of Technology, Shenzhen
           company_url: 'https://www.hitsz.edu.cn/'
-          company_logo: org-H
+          company_logo: org-x
           location: Shenzhen,China
           date_end: ''
           date_start: '2021-01-25'
@@ -85,7 +85,7 @@ sections:
         - title: Bachelor of Engineering in Automation
           company: Harbin Engineering University
           company_url: 'http://www.hrbeu.edu.cn/'
-          company_logo: org-E
+          company_logo: org-x
           location: Harbin,China
           date_end: ''
           date_start: '2021-01-25'
