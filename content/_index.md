@@ -69,7 +69,7 @@ sections:
           location: Shenzhen,China
           date_start: '2024-05-28'
           date_end: ''
-          description: |2-
+          description:|2-
               Responsibilities include:
               * Analysing
               * Modelling
