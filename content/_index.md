@@ -68,7 +68,7 @@ sections:
           company_logo: org-x
           location: Shenzhen,China
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2024-05-28'
           description: |2-
               Responsibilities include:
               * Analysing
@@ -77,18 +77,18 @@ sections:
         - title: Master of Aerospace science and technology
           company: Harbin Institute of Technology, Shenzhen
           company_url: 'https://www.hitsz.edu.cn/'
-          company_logo: org-h
+          company_logo: org-x
           location: Shenzhen,China
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2022-09-01'
           description: Compliance control, whole-body motion control and real-world robotic system building.
         - title: Bachelor of Engineering in Automation
           company: Harbin Engineering University
           company_url: 'http://www.hrbeu.edu.cn/'
-          company_logo: org-e
+          company_logo: org-x
           location: Harbin,China
-          date_end: ''
-          date_start: '2021-01-25'
+          date_end: '2022-06-28'
+          date_start: '2018-09-01'
           description: Embedded system design and servo control.
     design:
       columns: '3'
