@@ -75,6 +75,7 @@ sections:
               * Analysing
               * Modelling
               * Deploying
+    
         - title: Master of Aerospace science and technology (Main research : Robotics)
           company: Harbin Institute of Technology, Shenzhen
           company_url: 'https://www.hitsz.edu.cn/'
@@ -92,7 +93,7 @@ sections:
           date_end: '2022-06-28'
           description: Embedded system design and servo control.
     design:
-      columns: '2'
+      columns: '3'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
