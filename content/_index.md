@@ -62,34 +62,34 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Motion Control Engineer (Intern)
-          company: Tencent Robotics X Lab
-          company_url: 'https://roboticsx.tencent.com/'
-          company_logo: org-x
-          location: Shenzhen,China
-          date_start: '2024-05-28'
+        - title:Motion Control Engineer (Intern)
+          company:Tencent Robotics X Lab
+          company_url:'https://roboticsx.tencent.com/'
+          company_logo:org-x
+          location:Shenzhen,China
+          date_start:'2024-05-28'
           date_end:''
           description:|2-
               Responsibilities include:
               * Analysing
               * Modelling
               * Deploying
-        - title: Master of Aerospace science and technology (Main research : Robotics)
-          company: Harbin Institute of Technology, Shenzhen
-          company_url: 'https://www.hitsz.edu.cn/'
-          company_logo: org-H
-          location: Shenzhen,China
-          date_start: '2022-09-01'
-          date_end: ''
-          description: Compliance control, whole-body motion control and real-world robotic system building.
-        - title: Bachelor of Engineering in Automation (Main research : Embedded)
-          company: Harbin Engineering University
-          company_url: 'http://www.hrbeu.edu.cn/'
-          company_logo: org-E
-          location: Harbin,China
-          date_start: '2018-09-01'
-          date_end: '2022-06-28'
-          description: Embedded system design and servo control.
+        - title:Master of Aerospace science and technology (Main research : Robotics)
+          company:Harbin Institute of Technology, Shenzhen
+          company_url:'https://www.hitsz.edu.cn/'
+          company_logo:org-H
+          location:Shenzhen,China
+          date_start:'2022-09-01'
+          date_end:''
+          description:Compliance control, whole-body motion control and real-world robotic system building.
+        - title:Bachelor of Engineering in Automation (Main research : Embedded)
+          company:Harbin Engineering University
+          company_url:'http://www.hrbeu.edu.cn/'
+          company_logo:org-E
+          location:Harbin,China
+          date_start:'2018-09-01'
+          date_end:'2022-06-28'
+          description:Embedded system design and servo control.
     design:
       columns: '3'
   - block: accomplishments
