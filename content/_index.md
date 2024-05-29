@@ -69,7 +69,7 @@ sections:
           location: Shenzhen,China
           date_start: '2024-05-28'
           date_end: ''
-          description:1
+          description:1.
         - title: Master of Aerospace science and technology (Main research : Robotics)
           company: Harbin Institute of Technology, Shenzhen
           company_url: 'https://www.hitsz.edu.cn/'
