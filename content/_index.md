@@ -68,7 +68,7 @@ sections:
           company_logo:org-x
           location:Shenzhen,China
           date_start:'2024-05-28'
-          date_end:'2025-01-31'
+          date_end:'2022-06-28'
           description:|2-
               * Analysing
               * Modelling
@@ -79,7 +79,7 @@ sections:
           company_logo:org-H
           location:Shenzhen,China
           date_start:'2022-09-01'
-          date_end:'2025-01-31'
+          date_end:'2022-06-28'
           description:Compliance control, whole-body motion control and real-world robotic system building.
         - title:Bachelor of Engineering in Automation
           company:Harbin Engineering University
@@ -90,7 +90,7 @@ sections:
           date_end:'2022-06-28'
           description:Embedded system design and servo control.
     design:
-      columns: '2'
+      columns: '3'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
