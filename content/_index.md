@@ -72,8 +72,8 @@ sections:
           description: |2-
               Responsibilities include:
               * Analysing
-              * Modelling 
-              * Deploying 
+              * Modelling
+              * Applying
         - title: Master of Aerospace science and technology (Main research : Robotics)
           company: Harbin Institute of Technology, Shenzhen
           company_url: 'https://www.hitsz.edu.cn/'
