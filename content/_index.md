@@ -69,12 +69,11 @@ sections:
           location:Shenzhen,China
           date_start:'2024-05-28'
           date_end:''
-          description: |2-
-              Responsibilities include:
+          description:|2-
               * Analysing
               * Modelling
               * Deploying
-        - title:Master of Aerospace science and technology (Main research : Robotics)
+        - title:Master of Aerospace science and technology
           company:Harbin Institute of Technology, Shenzhen
           company_url:'https://www.hitsz.edu.cn/'
           company_logo:org-H
@@ -82,7 +81,7 @@ sections:
           date_start:'2022-09-01'
           date_end:''
           description:Compliance control, whole-body motion control and real-world robotic system building.
-        - title:Bachelor of Engineering in Automation (Main research : Embedded)
+        - title:Bachelor of Engineering in Automation
           company:Harbin Engineering University
           company_url:'http://www.hrbeu.edu.cn/'
           company_logo:org-E
