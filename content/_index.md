@@ -62,12 +62,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Motion Control Engineer (Intern)
+          company: Tencent Robotics X Lab
+          company_url: 'https://roboticsx.tencent.com/'
+          company_logo: org-x
+          location: Shenzhen,China
+          date_start: '2024-05-28'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -75,16 +75,24 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Master of Aerospace science and technology (Main research : Robotics)
+          company: Harbin Institute of Technology, Shenzhen
+          company_url: 'https://www.hitsz.edu.cn/'
+          company_logo: org-H
+          location: Shenzhen,China
+          date_start: '2022-09-01'
+          date_end: ''
+          description: Compliance control, whole-body motion control and real-world robotic system building.
+        - title: Bachelor of Engineering in Automation (Main research : Embedded)
+          company: Harbin Engineering University
+          company_url: 'http://www.hrbeu.edu.cn/'
+          company_logo: E
+          location: Harbin,China
+          date_start: '2018-09-01'
+          date_end: '2022-06-28'
+          description: Embedded system design and servo control.
     design:
-      columns: '2'
+      columns: '3'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
