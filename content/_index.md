@@ -68,7 +68,7 @@ sections:
           company_logo:org-x
           location:Shenzhen,China
           date_start:'2024-05-28'
-          date_end:''
+          date_end:'2025-01-31'
           description:|2-
               * Analysing
               * Modelling
@@ -79,7 +79,7 @@ sections:
           company_logo:org-H
           location:Shenzhen,China
           date_start:'2022-09-01'
-          date_end:''
+          date_end:'2025-01-31'
           description:Compliance control, whole-body motion control and real-world robotic system building.
         - title:Bachelor of Engineering in Automation
           company:Harbin Engineering University
