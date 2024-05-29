@@ -71,7 +71,6 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-
               * Analysing
               * Modelling
               * Deploying
