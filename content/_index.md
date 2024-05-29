@@ -66,7 +66,7 @@ sections:
           company: Tencent Robotics X Lab
           company_url: 'https://roboticsx.tencent.com/'
           company_logo: org-x
-          location: Shenzhen,China
+          location: Shenzhen, China
           date_end: ''
           date_start: '2024-05-28'
           description: |2-
@@ -78,7 +78,7 @@ sections:
           company: Harbin Institute of Technology, Shenzhen
           company_url: 'https://www.hitsz.edu.cn/'
           company_logo: org-x
-          location: Shenzhen,China
+          location: Shenzhen, China
           date_end: ''
           date_start: '2022-09-01'
           description: Compliance control, whole-body motion control and real-world robotic system building.
@@ -86,7 +86,7 @@ sections:
           company: Harbin Engineering University
           company_url: 'http://www.hrbeu.edu.cn/'
           company_logo: org-x
-          location: Harbin,China
+          location: Harbin, China
           date_end: '2022-06-28'
           date_start: '2018-09-01'
           description: Embedded system design and servo control.
