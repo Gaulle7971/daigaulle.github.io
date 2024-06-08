@@ -65,7 +65,7 @@ sections:
         - title: Motion Control Engineer (Intern)
           company: Tencent Robotics X Lab
           company_url: 'https://roboticsx.tencent.com/'
-          company_logo: org-x
+          company_logo: roboticX
           location: Shenzhen, China
           date_end: ''
           date_start: '2024-05-28'
