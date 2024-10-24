@@ -87,7 +87,6 @@ sections:
       filters:
         folders:
           - project
-          - project2
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -115,7 +114,6 @@ sections:
       filters:
         folders:
           - publication
-          - publication2
         featured_only: true
     design:
       columns: '2'
