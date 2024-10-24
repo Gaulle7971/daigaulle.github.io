@@ -162,7 +162,7 @@ sections:
           title:  The 14th National Undergraduate Electronic Design Contest (NUEDC)
           url: ''
     design:
-      columns: '2'
+      columns: '6'
   - block: contact
     id: contact
     content:
