@@ -132,32 +132,32 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
-          date_start: '2022-12'
+          date_start: '2022-12-01'
           description: 'Second Prize, National'
           title: The 8th China Graduate Future Flight Vehicle Innovation Competition (FFVC)
           url: ''
         - date_end: ''
-          date_start: '2021-6'
+          date_start: '2021-06-01'
           description: 'First Prize, National'
           title: The 4th Huawei Cup Nation Undergraduate IOT Design Contest (HCIDC)
           url: ''
         - date_end: ''
-          date_start: '2020-11'
+          date_start: '2020-11-01'
           description: 'Third Prize, National'
           title: The 8th China Innovation Methods Competition (CIMC)
           url: ''
         - date_end: ''
-          date_start: '2020-10'
+          date_start: '2020-10-01'
           description: 'Second Prize, Division'
           title:  The 8th China International College Students’ Innovation Competition
           url: ''
         - date_end: ''
-          date_start: '2020-8'
+          date_start: '2020-08-01'
           description: 'Third Prize, Division'
           title:  The 12th "Challenge Cup" National College Student Business Plan Competition (BPC)
           url: ''
         - date_end: ''
-          date_start: '2019-10'
+          date_start: '2019-10-01'
           description: 'First Prize, Division'
           title:  The 14th National Undergraduate Electronic Design Contest (NUEDC)
           url: ''
