@@ -43,6 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -120,7 +121,8 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: accomplishments
+  - block: honors
+    id: honors
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Honors'
