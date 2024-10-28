@@ -117,9 +117,10 @@ sections:
         folders:
           - publication
           - publication2
+          - publication3
         featured_only: true
     design:
-      columns: '2'
+      columns: '3'
       view: card
   - block: accomplishments
     id: accomplishments
