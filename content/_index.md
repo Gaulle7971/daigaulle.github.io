@@ -156,14 +156,16 @@ sections:
           description: 'Second Prize, Division'
           title:  The 8th China International College Students’ Innovation Competition
           url: 'https://cy.ncss.cn/en/'
-        - description: 'Third Prize, Division'
+        - date_end: ''
+          date_start: '2019-12-01'
+          description: 'Third Prize, Division'
           title:  The 12th "Challenge Cup" National College Student Business Plan Competition (BPC)
           url: 'https://www.tiaozhanbei.net/'
         - date_end: ''
           date_start: '2019-10-01'
           description: 'First Prize, Division'
           title:  The 14th National Undergraduate Electronic Design Contest (NUEDC)
-          # url: 'https://www.nuedc-training.com.cn/index/index/index.html'
+          url: 'https://www.nuedc-training.com.cn/index/index/index.html'
     design:
       columns: '6'
   - block: contact
