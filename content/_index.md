@@ -118,7 +118,7 @@ sections:
           - publication
           - publication2
           - publication3
-        featured_only: true
+        featured_only: false
     design:
       columns: '3'
       view: card
