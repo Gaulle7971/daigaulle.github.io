@@ -1,19 +1,16 @@
 ---
-title: 'Gaussian-Mixture-Model-Based Model Predictive Control for Space Robot in Task-space'
+title: 'A Flippable Quadrupedal Wheel-Legged Robot'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Ziran,Liu
   - Zijian,Dai
-  - Chengfei,Yue
-  - Peiji,Wang
-  - Xibin,Cao
+  - Chengxin,Xu
 
 # Author notes (optional)
 
-date: '2023-03-27T00:15:39Z'
+date: '2023-05-01T00:15:39Z'
 # doi: 'https://www.sys-ele.com/EN/10.12305/j.issn.1001-506X.2023.11.27'
 
 # Schedule page publish date (NOT publication's date).
@@ -21,16 +18,16 @@ date: '2023-03-27T00:15:39Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-journal']
+publication_types: ['patent']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Systems Engineering and Electronics*
-publication_short: In *Systems Engineering and Electronics*
+# publication: In *Systems Engineering and Electronics*
+# publication_short: In *Systems Engineering and Electronics*
 
-abstract: The Gaussian-mixture-model-based model predictive controller is proposed for the precise operation requirement and task-space control problem of space robots. Based on the nominal model, the Gaussian mixture model is utilized to analyze and compensate the model uncertainties accurately and efficiently, which are caused by the joint friction, measurement error, etc. Then, considering the physical constraints, such as joint limitations and input saturations, the nonlinear model predictive control method incorporated with the augmented model is proposed to realize the direct and accurate tracking for both the robot base and end-effectors pose. Besides, the thrust allocation algorithm is presented for the thruster's redundant configuration. Finally, the effectiveness of the proposed method is verified by the simulation results.
+abstract: The utility model discloses a flippable four-legged wheel-legged robot, relates to a wheel-legged robot equipment technical field, comprising: a robot base, and the robot base comprises a base plate and a first side plate; The beneficial effects of the utility model are that: be provided with a robot base and a wheel leg assembly, when in use, the first left leg joint is driven to rotate through the operation of the first driving motor, the fourth left leg joint is driven to rotate through the operation of the fourth driving motor, the wheel leg assembly is driven to be adjusted four times, and the complex adaptability of the traditional four-legged robot is also retained in the compatible foot-type state, and is also suitable for field exploration, the four-legged wheel-legged robot that can be turned over as a whole is realized through the operation of the four wheel-leg assemblies, and is more flexible, It is suitable for a variety of application scenarios such as topographic survey, industrial inspection, material handling, planetary exploration, etc., and meets the needs of use, and carries out data monitoring and processing through the normal operation of lidar and camera.
 
 # Summary. An optional shortened abstract.
-summary: The Gaussian-mixture-model-based model predictive controller is proposed for the precise operation requirement and task-space control problem of space robots.
+summary: To provide a flippable four-legged wheeled robot to address the ability of the special capabilities (in particular speed) of the legged robotic system to extend beyond its natural world, as proposed in the background technology above, which is critical for any task that requires skills to move quickly and long distances in challenging environments.
 
 tags: []
 
@@ -42,7 +39,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_source: 'https://www.sys-ele.com/EN/10.12305/j.issn.1001-506X.2023.11.27'
+# url_source: 'https://www.sys-ele.com/EN/10.12305/j.issn.1001-506X.2023.11.27'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
