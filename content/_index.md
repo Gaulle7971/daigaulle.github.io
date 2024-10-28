@@ -139,32 +139,32 @@ sections:
           date_start: '2022-12-01'
           description: 'Second Prize, National'
           title: The 8th China Graduate Future Flight Vehicle Innovation Competition (FFVC)
-          url: ''
+          url: 'https://cpipc.acge.org.cn/cw/hp/3'
         - date_end: ''
           date_start: '2021-06-01'
           description: 'First Prize, National'
           title: The 4th Huawei Cup Nation Undergraduate IOT Design Contest (HCIDC)
-          url: ''
+          url: 'http://iot.sjtu.edu.cn/Default.aspx'
         - date_end: ''
           date_start: '2020-11-01'
           description: 'Third Prize, National'
           title: The 8th China Innovation Methods Competition (CIMC)
-          url: ''
+          url: 'http://cxffds.scei.org.cn/'
         - date_end: ''
           date_start: '2020-10-01'
           description: 'Second Prize, Division'
           title:  The 8th China International College Students’ Innovation Competition
-          url: ''
+          url: 'https://cy.ncss.cn/en/'
         - date_end: ''
           date_start: '2020-08-01'
           description: 'Third Prize, Division'
           title:  The 12th "Challenge Cup" National College Student Business Plan Competition (BPC)
-          url: ''
+          url: 'https://www.tiaozhanbei.net/'
         - date_end: ''
           date_start: '2019-10-01'
           description: 'First Prize, Division'
           title:  The 14th National Undergraduate Electronic Design Contest (NUEDC)
-          url: ''
+          url: 'https://www.nuedc-training.com.cn/index/index/index.html'
     design:
       columns: '6'
   - block: contact
