@@ -159,7 +159,7 @@ sections:
         - description: 'Third Prize, Division'
           title:  The 12th "Challenge Cup" National College Student Business Plan Competition (BPC)
           url: 'https://www.tiaozhanbei.net/'
-          organization: 'Aug 2020'
+          organization: Aug 2020
         - date_end: '2019-10-01'
           date_start: '2019-10-01'
           description: 'First Prize, Division'
