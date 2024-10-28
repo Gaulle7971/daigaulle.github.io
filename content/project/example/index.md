@@ -1,5 +1,5 @@
 ---
-title: Reversible wheel-legged quadruped robot
+title: Flippable wheel-legged quadruped robot
 summary: An example of using the in-built project page.
 tags:
   - Robot platform building
