@@ -14,7 +14,7 @@ authors:
 # Author notes (optional)
 
 date: '2023-03-27T00:15:39Z'
-doi: 'https://www.sys-ele.com/EN/10.12305/j.issn.1001-506X.2023.11.27'
+# doi: 'https://www.sys-ele.com/EN/10.12305/j.issn.1001-506X.2023.11.27'
 
 # Schedule page publish date (NOT publication's date).
 
@@ -56,13 +56,13 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+# projects:
+  # - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
