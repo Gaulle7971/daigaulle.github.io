@@ -116,7 +116,7 @@ sections:
       filters:
         folders:
           - publication
-          - publication
+          - publication2
         featured_only: true
     design:
       columns: '2'
