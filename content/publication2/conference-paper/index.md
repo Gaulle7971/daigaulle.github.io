@@ -1,19 +1,18 @@
 ---
-title: 'Gaussian-Mixture-Model-Based Model Predictive Control for Space Robot in Task-space'
+title: 'A Whole-Body Compliance Control Strategy of Truss Crawling for Multi-Arm Space Robots'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Ziran,Liu
   - Zijian,Dai
-  - Chengfei,Yue
   - Peiji,Wang
-  - Xibin,Cao
+  - Tao,Lin
+  - Chengfei,Yue
 
 # Author notes (optional)
 
-date: '2023-03-27T00:15:39Z'
+date: '2024-05-01T00:15:39Z'
 # doi: 'https://www.sys-ele.com/EN/10.12305/j.issn.1001-506X.2023.11.27'
 
 # Schedule page publish date (NOT publication's date).
@@ -21,11 +20,11 @@ date: '2023-03-27T00:15:39Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-journal']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Systems Engineering and Electronics*
-publication_short: In *Systems Engineering and Electronics*
+publication: In *ICGNC 2024 (Accepted)*
+publication_short: In *ICGNC 2024 (Accepted)*
 
 abstract: The Gaussian-mixture-model-based model predictive controller is proposed for the precise operation requirement and task-space control problem of space robots. Based on the nominal model, the Gaussian mixture model is utilized to analyze and compensate the model uncertainties accurately and efficiently, which are caused by the joint friction, measurement error, etc. Then, considering the physical constraints, such as joint limitations and input saturations, the nonlinear model predictive control method incorporated with the augmented model is proposed to realize the direct and accurate tracking for both the robot base and end-effectors pose. Besides, the thrust allocation algorithm is presented for the thruster's redundant configuration. Finally, the effectiveness of the proposed method is verified by the simulation results.
 
@@ -42,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_source: 'https://www.sys-ele.com/EN/10.12305/j.issn.1001-506X.2023.11.27'
+# url_source: 'https://www.sys-ele.com/EN/10.12305/j.issn.1001-506X.2023.11.27'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
