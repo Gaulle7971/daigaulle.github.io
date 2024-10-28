@@ -154,7 +154,7 @@ sections:
         - date_end: ''
           date_start: '2020-10-01'
           description: 'Second Prize, Division (Oct 2020)'
-          title:  The 8th China International College Students’ Innovation Competition
+          title:  The 8th China International College Students’ Innovation Competition (CICSIc)
           url: 'https://cy.ncss.cn/en/'
         - date_end: ''
           date_start: '2019-12-01'
