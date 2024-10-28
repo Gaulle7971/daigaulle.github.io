@@ -17,7 +17,7 @@ main:
     url: '#featured'
     weight: 40
   - name: Honors
-    url: '#honors'
+    url: '#accomplishment'
     weight: 50
   - name: Contact
     url: '#contact'
