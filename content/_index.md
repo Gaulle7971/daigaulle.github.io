@@ -136,22 +136,22 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - date_end: '2022-12-01'
+        - date_end: ''
           date_start: '2022-12-01'
           description: 'Second Prize, National'
           title: The 8th China Graduate Future Flight Vehicle Innovation Competition (FFVC)
           url: 'https://cpipc.acge.org.cn/cw/hp/3'
-        - date_end: '2021-06-01'
+        - date_end: ''
           date_start: '2021-06-01'
           description: 'First Prize, National'
           title: The 4th Huawei Cup Nation Undergraduate IOT Design Contest (HCIDC)
           url: 'http://iot.sjtu.edu.cn/Default.aspx'
-        - date_end: '2020-11-01'
+        - date_end: ''
           date_start: '2020-11-01'
           description: 'Third Prize, National'
           title: The 8th China Innovation Methods Competition (CIMC)
           url: 'http://cxffds.scei.org.cn/'
-        - date_end: '2020-10-01'
+        - date_end: ''
           date_start: '2020-10-01'
           description: 'Second Prize, Division'
           title:  The 8th China International College Students’ Innovation Competition
@@ -160,10 +160,10 @@ sections:
           title:  The 12th "Challenge Cup" National College Student Business Plan Competition (BPC)
           url: 'https://www.tiaozhanbei.net/'
         - date_end: ''
-          date_start: 'Oct 2019'
+          date_start: '2019-10-01'
           description: 'First Prize, Division'
           title:  The 14th National Undergraduate Electronic Design Contest (NUEDC)
-          url: 'https://www.nuedc-training.com.cn/index/index/index.html'
+          # url: 'https://www.nuedc-training.com.cn/index/index/index.html'
     design:
       columns: '6'
   - block: contact
