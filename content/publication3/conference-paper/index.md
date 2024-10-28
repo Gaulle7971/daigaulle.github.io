@@ -21,8 +21,8 @@ date: '2023-05-01T00:15:39Z'
 publication_types: ['patent']
 
 # Publication name and optional abbreviated publication name.
-# publication: In *Systems Engineering and Electronics*
-# publication_short: In *Systems Engineering and Electronics*
+publication: In *Patent*
+publication_short: In *Patent*
 
 abstract: The utility model discloses a flippable four-legged wheel-legged robot, relates to a wheel-legged robot equipment technical field, comprising: a robot base, and the robot base comprises a base plate and a first side plate; The beneficial effects of the utility model are that: be provided with a robot base and a wheel leg assembly, when in use, the first left leg joint is driven to rotate through the operation of the first driving motor, the fourth left leg joint is driven to rotate through the operation of the fourth driving motor, the wheel leg assembly is driven to be adjusted four times, and the complex adaptability of the traditional four-legged robot is also retained in the compatible foot-type state, and is also suitable for field exploration, the four-legged wheel-legged robot that can be turned over as a whole is realized through the operation of the four wheel-leg assemblies, and is more flexible, It is suitable for a variety of application scenarios such as topographic survey, industrial inspection, material handling, planetary exploration, etc, and carries out data monitoring and processing through the normal operation of lidar and camera.
 
