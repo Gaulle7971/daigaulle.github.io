@@ -88,7 +88,17 @@ sections:
       filters:
         folders:
           - project
+          - project1
           - project2
+          - project3
+          - project4
+          - project5
+          - project6
+          - project7
+          - project8
+          - project9
+          - project10
+          - project11
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
