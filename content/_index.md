@@ -56,6 +56,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Motion Control Engineer (Intern)
+          company: LimX Dynamics
+          company_url: 'https://www.limxdynamics.com/en'
+          company_logo: limx
+          location: Shenzhen, China
+          date_end: '2025-08-17'
+          date_start: '2025-02-17'
+          description: Teleoperated motion control of humanoid robots.
+        - title: Motion Control Engineer (Intern)
           company: Tencent Robotics X
           company_url: 'https://roboticsx.tencent.com/'
           company_logo: roboticX
