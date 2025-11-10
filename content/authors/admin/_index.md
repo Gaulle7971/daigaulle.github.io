@@ -17,26 +17,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master of Robotics
+role: PhD in Automatic Control, Bioengineering and Operations Research (ABRO)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Harbin Institute of Technology, Shenzhen
-    url: https://www.hitsz.edu.cn/
+  - name: Sapienza University of Rome
+    url: https://phd.uniroma1.it/web/AUTOMATIC-CONTROL,-BIOENGINEERING-AND-OPERATIONS-RESEARCH_nD3553_EN.aspx
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include legged robots/multi-armed robots, whole body compliance control, and real-world robotic system building.
+bio: My research interests include whole body motion control for humanoid, compliance control and real-world robotic system building.
 
 # Interests to show in About widget
 interests:
-  - Compliant Control
+  - Compliance Control
   - Whole Body Motion Control
   - Robot System Building
 
 # Education to show in About widget
 education:
   courses:
-    - course: M.Eng in Aerospace Science and Technology
+    - course: PhD in Automatic Control, Bioengineering and Operations Research (ABRO)
+      institution: Sapienza University of Rome (2025~Present)
+    - course: M.Eng in Aerospace Science and Technology (Robotics)
       institution: Harbin Institute of Technology, Shenzhen (2022~2025)
     - course: B.Eng in Automation
       institution: Harbin Engineering University (2018~2022)
@@ -88,7 +90,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: daigaulle@gmail.com
     display:
       header: true
   - icon: github
@@ -105,5 +107,5 @@ social:
 highlight_name: true
 ---
 
-Hi, I'm Zijian Dai! Currently, I am a third-year master's student majoring in robotics at Harbin Institute of Technology, Shenzhen. Before this I completed my B.Eng in automation at Harbin Engineering University with **Prof. Zheping Yan** and **Prof. Yongyao Chen**. During my academic career, I have worked on various types of robotics projects, including **quadruped robots**, **space robots**, **robotic arms**, **underwater robots**, **wheel robots**, etc. I am good at embedded development, ROS, and robot joint motion control such as servos/servo motors. My research interests include robot **compliant control**, **whole-body motion control**, and **real-world robotic system building**. Not long ago, I finished my internship at **Tencent Robotics X Lab**, and I am currently working on humanoid robots as an intern at **LimX Dynamics**. Currently, I am also looking for robotics **PhD opportunities** after my Master study.
+Hi, My name is Zijian Dai. Currently, I am a first-year PhD student majoring in robotics at **DIAG Robotics Lab**, supervised by **Prof. Giuseppe Oriolo (IEEE Fellow)**. In Mar 2025, I completed my M.Eng in Aerospace at **Harbin Institute of Technology, Shenzhen**. Before this I completed my B.Eng in Automation at **Harbin Engineering University** with **Prof. Zheping Yan**. During my academic career, I have worked on various types of robotics projects, including humanoid, quadruped robots, space robots, robotic arms, underwater robots, wheel robots etc. I am good at embedded development, ROS, and robot joint motion control such as servos/servo motors. My research interests include robot **compliant control**, **whole-body motion control**, and **real-world robotic system building**. In Oct 2024, I finished my internship at **Tencent Robotics X Lab**. Later, I joined the humanoid project at **LimX Dynamics** and ended my internship in August 2025. Now, I am joining the **Automatic Control, Bioengineering and Operations Research (ABRO)** PhD program at **Sapienza University of Rome** for my PhD degree.
 {style="text-align: justify;"}
