@@ -55,6 +55,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: PhD in Automatic Control, Bioengineering and Operations Research (ABRO)
+          company: Sapienza University of Rome
+          company_url: 'https://phd.uniroma1.it/web/AUTOMATIC-CONTROL,-BIOENGINEERING-AND-OPERATIONS-RESEARCH_nD3553_EN.aspx'
+          company_logo: sapienza
+          location: Roma, Italy
+          date_end: ''
+          date_start: '2025-11-01'
+          description: Whole body motion control for humanoid.
         - title: Motion Control Engineer (Intern)
           company: LimX Dynamics
           company_url: 'https://www.limxdynamics.com/en'
@@ -71,7 +79,7 @@ sections:
           date_end: '2024-10-10'
           date_start: '2024-07-10'
           description: Humanoid robot operation planning and control.
-        - title: Master of Aerospace science and technology
+        - title: Master of Aerospace science and technology (Robotics)
           company: Harbin Institute of Technology, Shenzhen
           company_url: 'https://www.hitsz.edu.cn/'
           company_logo: hit
@@ -192,18 +200,18 @@ sections:
       title: Contact
       # Contact (add or remove contact options as necessary)
       email: daigaulle@gmail.com
-      phone: +86 15244668153
+      phone: +39 3242668938 | +86 15244668153
       address:
-        street: Pingshan 1 Rd
-        city: Shenzhen
-        region: Nanshan District
-        postcode: '518055'
-        country: China
-      directions: HIT Campus of University Town of Shenzhen, Shenzhen, Guangdong Province, China
+        street: Via Ariosto
+        city: Roma
+        region: RM
+        postcode: '00185'
+        country: Italy
+      directions: Via Ariosto, 25, 00185 Roma, Italy
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '22.58951'
-        longitude: '113.96651'  
+        latitude: '41.89117'
+        longitude: '12.50371'  
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
