@@ -1,5 +1,5 @@
 ---
-title: 'Gaussian-Mixture-Model-Based Model Predictive Control for Space Robot in Task-space'
+title: 'Priority-Based Switching Model Predictive Control for Sequential Manipulation of Space Robot'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -8,13 +8,14 @@ authors:
   - Ziran,Liu
   - Zijian,Dai
   - Chengfei,Yue
-  - Peiji,Wang
+  - Tao,Lin
+  - Antonella,Ferrara
   - Xibin,Cao
 
 # Author notes (optional)
 
 date: '2023-03-27T00:15:39Z'
-# doi: 'https://www.sys-ele.com/EN/10.12305/j.issn.1001-506X.2023.11.27'
+doi: '10.1109/TAES.2025.3560609'
 
 # Schedule page publish date (NOT publication's date).
 
@@ -24,13 +25,13 @@ date: '2023-03-27T00:15:39Z'
 publication_types: ['paper-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Systems Engineering and Electronics*
-publication_short: In *Systems Engineering and Electronics*
+publication: In *IEEE Transactions on Aerospace and Electronic Systems*
+publication_short: In *IEEE TAES*
 
-abstract: The Gaussian-mixture-model-based model predictive controller is proposed for the precise operation requirement and task-space control problem of space robots. Based on the nominal model, the Gaussian mixture model is utilized to analyze and compensate the model uncertainties accurately and efficiently, which are caused by the joint friction, measurement error, etc. Then, considering the physical constraints, such as joint limitations and input saturations, the nonlinear model predictive control method incorporated with the augmented model is proposed to realize the direct and accurate tracking for both the robot base and end-effectors pose. Besides, the thrust allocation algorithm is presented for the thruster's redundant configuration. Finally, the effectiveness of the proposed method is verified by the simulation results.
+abstract: In this article, a priority-based switching model predictive control (SMPC) method is proposed for space robots to execute sequential operation tasks efficiently. For a predefined series of subtasks, we develop a state-dependent SMPC approach that simultaneously determines control inputs and switching times. By incorporating switching within the prediction horizon, the method improves overall task efficiency and smooth transitions. However, it may impact individual subtask performance due to potential conflicts between objectives. To address this, a soft-priority concept modulates the importance of each stage within the SMPC framework, offering a balanced and practical solution. Numerical simulations verify the method's effectiveness and analyze how preference-based priorities influence overall task performance.
 
 # Summary. An optional shortened abstract.
-summary: The Gaussian-mixture-model-based model predictive controller is proposed for the precise operation requirement and task-space control problem of space robots.
+summary: A priority-based switching model predictive control (SMPC) method is proposed for space robots to execute sequential operation tasks efficiently.
 
 tags: []
 
@@ -42,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_source: 'https://www.sys-ele.com/EN/10.12305/j.issn.1001-506X.2023.11.27'
+url_source: 'https://ieeexplore.ieee.org/document/10964527'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
