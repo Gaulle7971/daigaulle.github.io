@@ -141,12 +141,13 @@ sections:
       title: Publications & Patent
       filters:
         folders:
+          - publication1
           - publication
           - publication2
           - publication3
         featured_only: false
     design:
-      columns: '3'
+      columns: '4'
       view: card
   - block: accomplishments
     id: accomplishments
